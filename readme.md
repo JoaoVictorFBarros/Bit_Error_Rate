@@ -2,6 +2,12 @@
 
 Este projeto implementa uma simulação para analisar a relação entre a Taxa de Erro de Bits (BER) e a Relação Sinal-Ruído (SNR) em uma comunicação digital utilizando modulação BPSK (Binary Phase Shift Keying). A simulação é realizada inteiramente em software, com uma interface gráfica interativa para ajustar parâmetros e observar como a qualidade do sinal influencia a taxa de erro.
 
+### Clone o repositório
+```bash
+git clone https://github.com/JoaoVictorFBarros/Bit_Error_Rate.git
+```
+
+
 ### Instalação das Dependências
 
 Se ainda não tiver as bibliotecas instaladas, use:
