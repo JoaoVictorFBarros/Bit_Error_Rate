@@ -62,13 +62,6 @@ O simulador implementa a seguinte cadeia de comunicação:
 
 A simulação é realizada para diferentes valores de SNR e a BER correspondente é calculada.
 
-## Instalação e Execução
-
-### Pré-requisitos
-
-- Python 3
-- Bibliotecas necessárias: `numpy`, `matplotlib`
-
 ## Interpretação do Gráfico
 
 O gráfico gerado mostra a relação entre a SNR (em dB) e a BER, em uma escala semilogarítmica (BER no eixo y e SNR no eixo x). A escala semilogarítmica é utilizada para destacar as diferenças na BER em diferentes níveis de SNR.
