@@ -13,7 +13,7 @@ git clone https://github.com/JoaoVictorFBarros/Bit_Error_Rate.git
 Se ainda não tiver as bibliotecas instaladas, use:
 
 ```
-pip install numpy matplotlib
+pip install numpy matplotlib tkinter
 ```
 
 ### Executando o Projeto
